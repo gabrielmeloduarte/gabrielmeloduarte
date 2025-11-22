@@ -36,12 +36,12 @@ Me chamo Gabriel melo, tenho 30 anos e sou natural de São Paulo . Sou formado e
 />
 
 <img 
-     align="left" 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/java/original.svg "
+    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"
 />
           
 
